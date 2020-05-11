@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'KoPubWorld Batang';
+    font-style: normal;
+    font-weight: 300;
+    src: local('KoPubWorldBatang'),
+    url('https://cdn.jsdelivr.net/npm/font-kopubworld@1.0/fonts/KoPubWorld-Batang-Light.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/npm/font-kopubworld@1.0/fonts/KoPubWorld-Batang-Light.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/npm/font-kopubworld@1.0/fonts/KoPubWorld-Batang-Light.otf') format('opentype'),
+    url('https://cdn.jsdelivr.net/npm/font-kopubworld@1.0/fonts/KoPubWorld-Batang-Light.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'KoPubWorld Batang';
+    font-style: normal;
+    font-weight: 400;
+    src: local('KoPubWorldBatang'),
+    url('https://cdn.jsdelivr.net/npm/font-kopubworld@1.0/fonts/KoPubWorld-Batang-Medium.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/npm/font-kopubworld@1.0/fonts/KoPubWorld-Batang-Medium.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/npm/font-kopubworld@1.0/fonts/KoPubWorld-Batang-Medium.otf') format('opentype'),
+    url('https://cdn.jsdelivr.net/npm/font-kopubworld@1.0/fonts/KoPubWorld-Batang-Medium.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'KoPubWorld Batang';
+    font-style: normal;
+    font-weight: 700;
+    src: local('KoPubWorldBatang'),
+    url('https://cdn.jsdelivr.net/npm/font-kopubworld@1.0/fonts/KoPubWorld-Batang-Bold.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/npm/font-kopubworld@1.0/fonts/KoPubWorld-Batang-Bold.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/npm/font-kopubworld@1.0/fonts/KoPubWorld-Batang-Bold.otf') format('opentype'),
+    url('https://cdn.jsdelivr.net/npm/font-kopubworld@1.0/fonts/KoPubWorld-Batang-Bold.eot') format('embedded-opentype');
+}
