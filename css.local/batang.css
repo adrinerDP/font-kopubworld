@@ -3,10 +3,9 @@
     font-style: normal;
     font-weight: 300;
     src: local('KoPubWorldBatang'),
-    url('../fonts/KoPubWorld-Batang-Light.woff2') format('woff2'),
-    url('../fonts/KoPubWorld-Batang-Light.woff') format('woff'),
-    url('../fonts/KoPubWorld-Batang-Light.otf') format('opentype'),
-    url('../fonts/KoPubWorld-Batang-Light.eot') format('embedded-opentype');
+        url('../fonts/KoPubWorld-Batang-Light.woff2') format('woff2'),
+        url('../fonts/KoPubWorld-Batang-Light.woff') format('woff'),
+        url('../fonts/KoPubWorld-Batang-Light.otf') format('opentype');
 }
 
 @font-face {
@@ -14,10 +13,9 @@
     font-style: normal;
     font-weight: 400;
     src: local('KoPubWorldBatang'),
-    url('../fonts/KoPubWorld-Batang-Medium.woff2') format('woff2'),
-    url('../fonts/KoPubWorld-Batang-Medium.woff') format('woff'),
-    url('../fonts/KoPubWorld-Batang-Medium.otf') format('opentype'),
-    url('../fonts/KoPubWorld-Batang-Medium.eot') format('embedded-opentype');
+        url('../fonts/KoPubWorld-Batang-Medium.woff2') format('woff2'),
+        url('../fonts/KoPubWorld-Batang-Medium.woff') format('woff'),
+        url('../fonts/KoPubWorld-Batang-Medium.otf') format('opentype');
 }
 
 @font-face {
@@ -25,8 +23,7 @@
     font-style: normal;
     font-weight: 700;
     src: local('KoPubWorldBatang'),
-    url('../fonts/KoPubWorld-Batang-Bold.woff2') format('woff2'),
-    url('../fonts/KoPubWorld-Batang-Bold.woff') format('woff'),
-    url('../fonts/KoPubWorld-Batang-Bold.otf') format('opentype'),
-    url('../fonts/KoPubWorld-Batang-Bold.eot') format('embedded-opentype');
+        url('../fonts/KoPubWorld-Batang-Bold.woff2') format('woff2'),
+        url('../fonts/KoPubWorld-Batang-Bold.woff') format('woff'),
+        url('../fonts/KoPubWorld-Batang-Bold.otf') format('opentype');
 }

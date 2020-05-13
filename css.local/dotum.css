@@ -5,8 +5,7 @@
     src: local('KoPubWorldDotum'),
         url('../fonts/KoPubWorld-Dotum-Light.woff2') format('woff2'),
         url('../fonts/KoPubWorld-Dotum-Light.woff') format('woff'),
-        url('../fonts/KoPubWorld-Dotum-Light.otf') format('opentype'),
-        url('../fonts/KoPubWorld-Dotum-Light.eot') format('embedded-opentype');
+        url('../fonts/KoPubWorld-Dotum-Light.otf') format('opentype');
 }
 
 @font-face {
@@ -16,8 +15,7 @@
     src: local('KoPubWorldDotum'),
         url('../fonts/KoPubWorld-Dotum-Medium.woff2') format('woff2'),
         url('../fonts/KoPubWorld-Dotum-Medium.woff') format('woff'),
-        url('../fonts/KoPubWorld-Dotum-Medium.otf') format('opentype'),
-        url('../fonts/KoPubWorld-Dotum-Medium.eot') format('embedded-opentype');
+        url('../fonts/KoPubWorld-Dotum-Medium.otf') format('opentype');
 }
 
 @font-face {
@@ -27,6 +25,5 @@
     src: local('KoPubWorldDotum'),
         url('../fonts/KoPubWorld-Dotum-Bold.woff2') format('woff2'),
         url('../fonts/KoPubWorld-Dotum-Bold.woff') format('woff'),
-        url('../fonts/KoPubWorld-Dotum-Bold.otf') format('opentype'),
-        url('../fonts/KoPubWorld-Dotum-Bold.eot') format('embedded-opentype');
+        url('../fonts/KoPubWorld-Dotum-Bold.otf') format('opentype');
 }
